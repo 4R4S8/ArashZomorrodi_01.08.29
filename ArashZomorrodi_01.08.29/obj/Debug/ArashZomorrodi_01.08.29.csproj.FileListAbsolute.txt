@@ -1,0 +1,11 @@
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\bin\Debug\ArashZomorrodi_01.08.29.exe.config
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\bin\Debug\ArashZomorrodi_01.08.29.exe
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\bin\Debug\ArashZomorrodi_01.08.29.pdb
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\obj\Debug\ArashZomorrodi_01.08.29.csproj.AssemblyReference.cache
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\obj\Debug\ArashZomorrodi_01.08.29.csproj.SuggestedBindingRedirects.cache
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\obj\Debug\ArashZomorrodi_01._08._29.Home.resources
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\obj\Debug\ArashZomorrodi_01._08._29.Properties.Resources.resources
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\obj\Debug\ArashZomorrodi_01.08.29.csproj.GenerateResource.cache
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\obj\Debug\ArashZomorrodi_01.08.29.csproj.CoreCompileInputs.cache
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\obj\Debug\ArashZomorrodi_01.08.29.exe
+C:\Users\arash\Documents\Visual Studio 2017\Projects\ArashZomorrodi_01.08.29\ArashZomorrodi_01.08.29\obj\Debug\ArashZomorrodi_01.08.29.pdb
