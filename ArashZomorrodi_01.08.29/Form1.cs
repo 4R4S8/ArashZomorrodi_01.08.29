@@ -30,6 +30,13 @@ namespace ArashZomorrodi_01._08._29
             var += number;
 
         }
+        string Stick_names(string fname, string lname,string res)
+        {
+            res = "Result: "+fname+" "+lname+"";
+            MessageBox.Show(res);
+            return ResultLbl.Text = res; ;
+            
+        }
 
         private void StartBtn_Click(object sender, EventArgs e)
         {
@@ -100,6 +107,14 @@ namespace ArashZomorrodi_01._08._29
 
         }
 
-        
+        private void nameTxt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void StickBtn_Click(object sender, EventArgs e)
+        {
+            Stick_names(nameTxt.Text,lastnameTxt.Text,ResultLbl.Text);
+        }
     }
 }
